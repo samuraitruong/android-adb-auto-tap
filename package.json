@@ -1,0 +1,19 @@
+{
+  "name": "android-auto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csv-parse": "^2.5.0",
+    "fs-extra": "^7.0.0",
+    "yargs": "^12.0.1"
+  },
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
+}
